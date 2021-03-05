@@ -1,0 +1,2 @@
+Hai myself is Saam Prasanth Deevn , 19 years old . Studying in IIIT sricity . As of now we are doing a project on Time Table Generator .
+Our Team numbers are as follows , Sri Lakshmi prasanna(Front end Developer), Vignesh (Front end ), Emma (Backend) , Chris(Backend), Deeven (Database).
